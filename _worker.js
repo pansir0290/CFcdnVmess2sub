@@ -12,7 +12,7 @@ let addressesnotls = [
 
 // 设置优选TLS地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt' //可参考内容格式 自行搭建。
+	'http://ipdb.api.030101.xyz/?type=bestproxy' //可参考内容格式 自行搭建。
 ];
 
 // 设置优选非TLS地址api接口
