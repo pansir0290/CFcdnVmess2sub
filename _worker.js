@@ -1,8 +1,11 @@
 // 设置优选TLS地址，不带端口号默认8443
 let addresses = [
-	'cf.090227.xyz:8443#Channel t.me/CMLiussss 解锁优选节点',
-	'icook.tw:2052#假装是台湾',
-	'cloudflare.cfgo.cc'
+	'ip1.34310889.xyz',
+	'ip2.34310889.xyz',
+	'ip3.34310889.xyz',
+        'ip4.34310889.xyz',
+        'ip5.34310889.xyz' 
+       
 ];
 
 // 设置优选非TLS地址，不带端口号默认8080
